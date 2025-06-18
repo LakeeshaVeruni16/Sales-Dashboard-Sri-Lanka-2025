@@ -16,7 +16,11 @@ This repository contains a comprehensive and interactive **Sales Dashboard** bui
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Preview](dashboard_preview.png)
+<p align="center">
+  <img src="Dashboard_Preview_1.png" alt="Sales Dashboard Preview 1" width="600"/>
+  <br>
+  <img src="Dashboard_Preview_2.png" alt="Sales Dashboard Preview 2" width="600"/>
+</p>
 
 ---
 
@@ -58,3 +62,5 @@ Bachelor of Science – University of Colombo
 📧 mdlveruni@gmail.com
 
 ---
+
+> For any questions or suggestions, feel free to open an issue or contact me directly!
