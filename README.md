@@ -14,6 +14,12 @@ This repository contains a comprehensive and interactive **Sales Dashboard** bui
 
 ---
 
+## 📸 Dashboard Preview
+
+![Sales Dashboard Preview](dashboard_preview.png)
+
+---
+
 ## ✅ Features
 
 - Interactive slicers and filters
@@ -27,7 +33,7 @@ This repository contains a comprehensive and interactive **Sales Dashboard** bui
 ## 💡 How to Use
 
 1. Download or clone this repository.
-2. Open 'Excel Dashboard.xlsx' in **Microsoft Excel (2016 or later)**.
+2. Open `Excel Dashboard.xlsx` in **Microsoft Excel (2016 or later)**.
 3. Use slicers to filter data by region, product category, or month.
 4. View updated charts and KPIs based on selected filters.
 
@@ -52,4 +58,3 @@ Bachelor of Science – University of Colombo
 📧 mdlveruni@gmail.com
 
 ---
-
